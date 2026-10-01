@@ -420,7 +420,10 @@ https://github.com/user-attachments/assets/1ece8337-da1b-4a08-88c6-f97df9e4c769
 ### 🎬 Real DELY-X
 
 
-https://github.com/user-attachments/assets/b5f2a512-f2a3-4702-ac1c-2b712b71ae51
+
+https://github.com/user-attachments/assets/7f010c25-f25b-467d-b77b-bc5d70e25bd0
+
+
 
 ## 📈 Results
 
