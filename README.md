@@ -256,7 +256,7 @@ The system is integrated with physical robotic hardware using:
 ### Main Components
 
 - 🧠 **Raspberry Pi 5**
-- 📷 **2 × CSI Cameras**
+- 📷 **3 × CSI Cameras**
 - 📡 Sensors
 - ⚙️ Motor control system
 - 🔌 UART communication
@@ -408,13 +408,19 @@ Start the perception and decision-making pipeline according to the provided proj
 ---
 
 ## 📽️ Demo
+- 
+
+https://github.com/user-attachments/assets/1ece8337-da1b-4a08-88c6-f97df9e4c769
+
 
 ### 🎬 Project Demonstration
 
-Add your project demonstration video here:
+
+
+
 
 ```text
-[DELY-X Demo Video]
+
 
 ```
 
@@ -465,6 +471,20 @@ The main goals of DELY-X are to:
 ---
 
 ## 👥 Team
+- Nancy Atef Mahmoud
+- Salma Yasser
+- Mariem Elsayed
+- Mariem Abd-Elhamid
+- Engi Alaa
+- Walaa Osama
+- Abdelrahman Nagi
+- Ayman Atta
+- Ahmed Abdo
+- Ahmed Sami
+- Karim Elsayed
+- Mohamed Tamer
+- Mohamed Gamal
+  
 
 ### DELY-X Graduation Project
 
