@@ -408,25 +408,19 @@ Start the perception and decision-making pipeline according to the provided proj
 ---
 
 ## 📽️ Demo
-- 
 
-https://github.com/user-attachments/assets/1ece8337-da1b-4a08-88c6-f97df9e4c769
-
-
-### 🎬 Project Demonstration
 
 
 
 
 
-```text
+https://github.com/user-attachments/assets/1ece8337-da1b-4a08-88c6-f97df9e4c769
 
 
-```
+### 🎬 Real DELY-X
 
-You can also upload the video to GitHub and place the generated GitHub video link here.
 
----
+https://github.com/user-attachments/assets/b5f2a512-f2a3-4702-ac1c-2b712b71ae51
 
 ## 📈 Results
 
